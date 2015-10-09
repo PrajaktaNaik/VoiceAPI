@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoiceAPI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro">Press the button to speak!!</string>
+    <string name="speech">Speak now!</string>
+    <string name="word_intro">Suggested words&#8230;</string>
+</resources>
